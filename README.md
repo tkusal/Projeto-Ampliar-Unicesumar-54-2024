@@ -37,6 +37,7 @@ Segue abaixo nosso cronograma:
 Para ser possível praticarem os exercícios, precisarão de um editor de textos ou IDE instalado e um compilador (GCC) e, recomendo também, que obtenham conhecimentos básicos de Git e GitHub para melhor interação com este repositório.
 
 Curso básico de Git e GitHub: [Clique Aqui!!](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV&ab_channel=PietroMartinsDeOliveira)
+
 Alguns exemplos de editor de Texto ou IDE, com seus prós e contras, link para download e link para vídeo do YouTUbe mostrando como instalar/configurar.
 
 1. Visual Studio Code (VSCode)
