@@ -1,6 +1,6 @@
 Projeto Ampliar - UniCesumar 
 ============
-**Algoritmos e Lógica de Programação** 📜 [53/2024]
+**Algoritmos e Lógica de Programação** 📜 [54/2024]
 
 Olá pessoal da monitoria do **Projeto Ampliar**, projeto de monitoria da UniCesumar! Este é o nosso espaço no GitHub, onde vamos armazenar as atividades que resolvemos juntos em sala e também aquelas que serão para casa. Aqui, queremos criar um ambiente bacana para compartilhar recursos e nos ajudar a dominar os desafios das aulas. E sabe por que estamos aqui? Para se aventurar no mundo do Git! Vamos começar **dando um fork** neste repositório e mergulhar de cabeça nesse universo de controle de versão.
 
@@ -17,18 +17,18 @@ Segue abaixo nosso cronograma:
 
 | Data       | Evento                                         |
 |:----------:|:----------------------------------------------:|
-| 15/07/2024 | Aula Inaugural com os Professores              |
-| 16/07/2024 | Início - Semana 1 - Conceitos Básicos          |
-| 23/07/2024 | Semana 2 - Estruturas Condicionais             |
-| 30/07/2024 | Semana 3 - Estruturas de Repetição             |
-| 06/08/2024 | Semana 4 - Estrutura Homogêneas                |
-| 12/08/2024 | Semana de Provas - Não há monitoria            |
-| 20/08/2024 | Semana 5 - Estrutura Heterogêneas              |
-| 27/08/2024 | Semana 6 - Sub-rotinas                         |
-| 03/09/2024 | Semana 7 - Ponteiros                           |
-| 10/09/2024 | Semana 8 - Revisão                             |
-| 12/09/2024 | Última Aula                                    |
-| 16/09/2024 | Semana de Provas                               |
+| 24/09/2024 | Aula Inaugural com os Professores              |
+| 25/09/2024 | Início - Semana 1 - Conceitos Básicos          |
+| 01/10/2024 | Semana 2 - Estruturas Condicionais             |
+| 08/10/2024 | Semana 3 - Estruturas de Repetição             |
+| 15/10/2024 | Semana 4 - Estrutura Homogêneas                |
+| 22/10/2024 | Semana de Provas - Não há monitoria            |
+| 29/10/2024 | Semana 5 - Estrutura Heterogêneas              |
+| 05/11/2024 | Semana 6 - Sub-rotinas                         |
+| 12/11/2024 | Semana 7 - Ponteiros                           |
+| 19/11/2024 | Semana 8 - Revisão                             |
+| 21/11/2024 | Última Aula                                    |
+| 26/11/2024 | Semana de Provas                               |
 
 
 ---
@@ -36,7 +36,7 @@ Segue abaixo nosso cronograma:
 
 Para ser possível praticarem os exercícios, precisarão de um editor de textos ou IDE instalado e um compilador (GCC) e, recomendo também, que obtenham conhecimentos básicos de Git e GitHub para melhor interação com este repositório.
 
-Curso básico de Git e GitHub: https://youtu.be/pyM5QLS2h6M?si=KsLYehtK8j0Bvba
+Curso básico de Git e GitHub: [Clique Aqui!!](https://www.youtube.com/watch?v=iQn5vZt0iWI&list=PLpaKFn4Q4GMOhOuffvi7VagNib0P325AV&ab_channel=PietroMartinsDeOliveira)
 
 Alguns exemplos de editor de Texto ou IDE, com seus prós e contras, link para download e link para vídeo do YouTUbe mostrando como instalar/configurar.
 
