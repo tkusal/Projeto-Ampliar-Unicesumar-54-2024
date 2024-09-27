@@ -5,7 +5,7 @@ int main() {
     int anoAtual;
     int anoNascimento;
     int idade;
-
+    
     anoAtual = 2024;
     anoNascimento = 1990;
     idade = anoAtual - anoNascimento;
