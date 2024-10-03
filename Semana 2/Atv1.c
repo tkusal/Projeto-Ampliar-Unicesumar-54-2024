@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main () {
-    
+int main()
+{
+
     int idade;
     float salario;
     char sexo;
