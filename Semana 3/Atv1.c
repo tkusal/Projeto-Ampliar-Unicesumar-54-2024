@@ -27,7 +27,7 @@ int main()
     }
     else if (pessoa3 > pessoa1 && pessoa3 > pessoa2)
     {
-        printf("A Pessoa 2 é mais velha, com %d anos.", pessoa3);
+        printf("A Pessoa 3 é mais velha, com %d anos.", pessoa3);
     }
     else
     {
