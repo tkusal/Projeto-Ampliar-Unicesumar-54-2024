@@ -27,6 +27,7 @@ Segue abaixo nosso cronograma:
 | 05/11/2024 | Semana 6 - Sub-rotinas                         |
 | 12/11/2024 | Semana 7 - Ponteiros                           |
 | 19/11/2024 | Semana 8 - Revisão                             |
+| 20/11/2024 | Feriado - Não há monitoria                     |
 | 21/11/2024 | Última Aula                                    |
 | 26/11/2024 | Semana de Provas                               |
 
