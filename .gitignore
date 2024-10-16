@@ -60,3 +60,4 @@ CMakeLists.txt
 Compilado/
 .vscode/
 output/
+teste.c
