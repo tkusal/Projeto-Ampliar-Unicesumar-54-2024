@@ -23,6 +23,10 @@
     
     Dica:
     utilize funções de manipulação de strings da biblioteca string.h para comparar e exibir o progresso da palavra.
+    Função ctype.h com a função toupper() ou tolower(), para manter os caracteres sempre maúsculos ou minúsculos.
+
+    As bibliotecas da atividade 8 (stdlib.h, time.h) podem ser necessárias.
     
     Biblioteca strin.h: https://petbcc.ufscar.br/string/
+    Biblioteca ctype.h: https://petbcc.ufscar.br/ctypefuncoes/
 */    
